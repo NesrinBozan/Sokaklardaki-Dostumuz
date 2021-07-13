@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "171122241332",
+    "project_id": "sokaklardaki-dostumuz-be572",
+    "storage_bucket": "sokaklardaki-dostumuz-be572.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171122241332:android:7eff495a0380e7d0fd3f61",
+        "android_client_info": {
+          "package_name": "com.example.sokaklardakii_dostumuz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171122241332-lcufmmrcinkqut2jaef5g61f8l1pf357.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5X-uF6ePiXkMEb1cS6taVxpth0HEI4n0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171122241332-lcufmmrcinkqut2jaef5g61f8l1pf357.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
