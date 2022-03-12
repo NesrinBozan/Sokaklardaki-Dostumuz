@@ -30,6 +30,6 @@ Eklenen takvim, kullanıcının sahip oldugu ya da bakımını üstlendigi canl�
 [![image](https://r.resimlink.com/b17E2.jpg)](https://resimlink.com/b17E2)
 
 ### 6) İlan Paylaşma Ekranı
-Kullanıcı sahiplendirme / sahiplenme i¸slemlerini gerçekle¸stirecegi bölümdür.
+Kullanıcı sahiplendirme / sahiplenme işlemlerini gerçekleştirecegi bölümdür.
 
-[![image](https://r.resimlink.com/Rx1sL4WFE.png)](https://resimlink.com/Rx1sL4WFE)
+[![image](https://r.resimlink.com/9ITDFCZBzbw0.png)](https://resimlink.com/9ITDFCZBzbw0)
