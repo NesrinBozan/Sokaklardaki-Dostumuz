@@ -1,16 +1,35 @@
-# sokaklardakii_dostumuz
+### Uygulamanın Amacı
+Proje, sokakları bizimle paylaşan sokak hayvanlarının yaşam mücadelesini kolaylaştırmak isteyen  kullanıcıların, tek bir platform üzerinden birçok işlevi yerine getirebilecegi bir mobil uygulama olması için geliştirilmektedir.
+### Uygulamanın İçeriği
+Çalışma kapsamında kullanıcının giriş ve kayıt işlemlerinin yapılması, harita eklenerek harita üzerinde kullanıcı konumuna yardım bildirimi için özelleştirilmiş işaretleyici eklenmesi, bilgiler bölümü ile kullanıcının faydalanabilecegi bilgilere tek tıkla ulaşılabilmesi, sahiplen/sahiplendir bölümü eklenerek kullanıcının paylaşım yapabilmesi veya paylaşımlardan haberdar olabilmesi ve takvim bölümü ile kullanıcının önemli olayları kendi takviminde not alması gibi işlevler yer alacaktır.
 
-A new Flutter application.
+### Uygulamanın Çalışma Yapısı
+### 1)Başlangıç Ekranı
+Başlangıç ekranı, uygulamayı kullanacak kullanıcılara uygulamada bulunan hizmetler ile neler yapılacagı hakkında çağrışımda bulunacak kısa cümleler eklenerek kullanıldı. Kullanıcı giriş ekranında bulunan ‘SKIP’ ve ‘LOGIN’ butonları ile kullanıcı giriş ekranına geçiş yapabilecektir.
+ [![image](https://r.resimlink.com/tmfSH.jpg)](https://resimlink.com/tmfSH)
 
-## Getting Started
+### 2) Kayıt / Giriş Ekranı
+Uygulamaya kullanıcı iki farklı türde giriş yapabilecektir. Kullanıcı e-mail ve şifre ile hesap oluşturarak ve sahip oldugu Google hesabı ile giriş yapabilir. Uygulamaya kayıtlı kullanıcıların şifresini unutma durumunda yeni şifre oluşturabilecektir
 
-This project is a starting point for a Flutter application.
+[![image](https://r.resimlink.com/pJhzN.jpg)](https://resimlink.com/pJhzN)
 
-A few resources to get you started if this is your first Flutter project:
+### 3) Menü ve Harita Ekranı
+Harita bölümü, kullanıcıların harita ile etkileşimde bulunarak sokak hayvanları için yardım bildirim işlemini gerçekleştireceği kısımdır.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+[![image](https://r.resimlink.com/TiH6IYBfw1a8.jpg)](https://resimlink.com/TiH6IYBfw1a8)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 4) Faydalı Bilgiler Ekranı
+ Uygulama kullanıcısı Bilgiler bölümü ile birçok faydalı bilgiye aynı uygulama içerisinde eri¸sebilecektir.
+ 
+[![image](https://r.resimlink.com/vjK9D.jpg)](https://resimlink.com/vjK9D)
+[![image](https://r.resimlink.com/RMokKfq.jpg)](https://resimlink.com/RMokKfq)
+
+### 5) Takvim Ekranı
+Eklenen takvim, kullanıcının sahip oldugu ya da bakımını üstlendigi canlıların ihtiyaçlarını karşılarken, düzenli yapılan barınak ziyareti ve bagış yapılırken yoğun iş temposunda unutmamak için gerçekleştirilecek işlemlerin bu bölümünde olayın ilgili tarihine not ekleyerek kendine özel takvim içeriginin oluşturulması sağlandı.
+
+[![image](https://r.resimlink.com/b17E2.jpg)](https://resimlink.com/b17E2)
+
+### 6) İlan Paylaşma Ekranı
+Kullanıcı sahiplendirme / sahiplenme i¸slemlerini gerçekle¸stirecegi bölümdür.
+
+[![image](https://r.resimlink.com/1JB2SyghFLDQ.jpg)](https://resimlink.com/1JB2SyghFLDQ)
