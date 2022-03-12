@@ -19,7 +19,7 @@ Harita bölümü, kullanıcıların harita ile etkileşimde bulunarak sokak hayv
 [![image](https://r.resimlink.com/TiH6IYBfw1a8.jpg)](https://resimlink.com/TiH6IYBfw1a8)
 
 ### 4) Faydalı Bilgiler Ekranı
- Uygulama kullanıcısı Bilgiler bölümü ile birçok faydalı bilgiye aynı uygulama içerisinde eri¸sebilecektir.
+ Uygulama kullanıcısı Bilgiler bölümü ile birçok faydalı bilgiye aynı uygulama içerisinde erişebilecektir.
  
 [![image](https://r.resimlink.com/vjK9D.jpg)](https://resimlink.com/vjK9D)
 [![image](https://r.resimlink.com/RMokKfq.jpg)](https://resimlink.com/RMokKfq)
@@ -32,4 +32,4 @@ Eklenen takvim, kullanıcının sahip oldugu ya da bakımını üstlendigi canl�
 ### 6) İlan Paylaşma Ekranı
 Kullanıcı sahiplendirme / sahiplenme i¸slemlerini gerçekle¸stirecegi bölümdür.
 
-[![image](https://r.resimlink.com/1JB2SyghFLDQ.jpg)](https://resimlink.com/1JB2SyghFLDQ)
+[![image](https://r.resimlink.com/Rx1sL4WFE.png)](https://resimlink.com/Rx1sL4WFE)
